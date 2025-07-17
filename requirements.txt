@@ -1,0 +1,31 @@
+# Core dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+
+# Data processing
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pillow>=10.0.0
+
+# Development tools
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+isort>=5.12.0
+
+# Optional: Uncomment based on specific needs
+# tensorflow>=2.13.0
+# opencv-python>=4.8.0
+# streamlit>=1.25.0
+# fastapi>=0.100.0
+# uvicorn>=0.23.0 
